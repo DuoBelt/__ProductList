@@ -1,0 +1,34 @@
+{
+	"ProductCollection": [
+  {
+    "id": 0,
+    "name": "Box",
+    "image": "https://beta.liveroom.xyz/uploads/1486103375105box.png"
+  },
+  {
+    "id": 1,
+    "name": "Boxes",
+    "image": "https://beta.liveroom.xyz/uploads/1486376789321Logo.png"
+  },
+  {
+    "id": 2,
+    "name": "Barcelona Chair",
+    "image": "https://beta.liveroom.xyz/uploads/1488889320985Barcelona.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Chair",
+    "image": "https://beta.liveroom.xyz/uploads/1488890225519chair.jpg"
+  },
+  {
+    "id": 4,
+    "name": "PC Chair",
+    "image": "https://beta.liveroom.xyz/uploads/1488890538197pcchair.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Lamp",
+    "image": "https://beta.liveroom.xyz/uploads/1488891251879lamp.jpg"
+  }
+]
+}
